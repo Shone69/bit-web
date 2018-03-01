@@ -1,0 +1,61 @@
+.bg-secondary {
+  background: #293e4f !important; }
+
+.navbar-toggler {
+  background: turquoise; }
+
+.navbar-brand {
+  color: white; }
+
+header > img {
+  background: turquoise;
+  padding-top: 5%; }
+
+.green {
+  background-color: #18bc9c;
+  padding: 5%; }
+
+.green {
+  text-align: center;
+  color: white; }
+
+a {
+  color: white !important; }
+
+p {
+  padding: 5%; }
+
+main {
+  text-align: center;
+  margin: 15% 10%; }
+
+.container {
+  padding: 3%; }
+
+img {
+  padding: 2%; }
+
+.contact {
+  padding: 10% 0; }
+
+.btnSend {
+  color: white;
+  background: #18bc9c; }
+
+.about {
+  color: white;
+  background: #18bc9c;
+  text-align: left;
+  padding: 10% 0; }
+
+h1 {
+  text-align: center; }
+
+section > div > p {
+  padding: 0%; }
+
+.btn-center {
+  margin: 0 auto;
+  display: flow-root; }
+
+/*# sourceMappingURL=main.css.map */
