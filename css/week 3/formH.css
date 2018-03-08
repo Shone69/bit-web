@@ -1,0 +1,49 @@
+.formGet {
+    width: 20%;
+    margin: 50px auto 0;
+    background-color: rgb(231, 230, 229);
+    border-radius: 10% 0; 
+    font-family: sans-serif;
+    font-size: 200%;
+    padding-top: 20px;
+}
+
+.inside{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 70%;
+    color: rgb(83, 79, 79)
+}
+h1{
+    width: 100%;
+    text-align: center;
+}
+h1>span{
+    color: rgb(248, 182, 0);
+}
+
+input{
+    box-shadow: 7px 1px 30px 0px rgba(50, 50, 50, 0.69);
+    margin: 5px 0 10px 0;
+    width: 100%;
+    padding: 5px;
+    font-size: 75%;
+}
+
+#address{
+    margin-bottom: 50px;
+}
+.submit{
+    background-color: rgba(168, 7, 7, 0.863);
+    color: white;
+    border-radius: 20%;
+    box-shadow: 0px 0px 30px 0px rgba(255, 0, 0, 1);
+    margin-bottom: 30px;
+}
+input:hover{
+    cursor: help;
+}
+
+.submit:hover {
+    cursor: url("./Cursor-Arrow-PNG-File.png");
+}

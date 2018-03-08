@@ -1,0 +1,18 @@
+.bottomborder{
+    border-bottom: 2px solid green;
+}
+
+.touppercase{
+    text-transform: uppercase;
+}
+
+
+.active{
+    color: red;
+}
+.fontsize{
+    font-size: 25px;
+}
+.background{
+    background:gold;
+}
