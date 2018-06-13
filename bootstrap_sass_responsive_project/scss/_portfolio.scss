@@ -1,0 +1,15 @@
+$width:100%;
+main.container-fluid {
+    width:75%;
+    text-align: center;
+    margin: 6vw auto;
+    h3, h1 {
+        font-family:'Lato-Black', Arial, Helvetica, sans-serif;
+    }
+    div {
+        padding: 0.75vw;
+        img {
+            width:$width;
+        }
+    }
+}

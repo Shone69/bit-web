@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Lato-Black;
+    src: url(../vendor/fonts/Lato-Black.ttf);
+}
+@font-face {
+    font-family: Lato-Light;
+    src: url(../vendor/fonts/Lato-Light.ttf);
+}
+$blueish:#2c3e50;
+$greenish:#18bc9c;
+$formText:#495057;
+body {
+    .container-fluid {
+    font-family: Lato-Light, Arial, Helvetica, sans-serif; 
+    margin:0;
+    padding:0;
+    }
+}
+@import 'nav';
+@import 'portfolio';
+@import 'header';
+@import 'about';
+@import 'form';
+@import 'footer';
+

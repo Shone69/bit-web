@@ -1,0 +1,25 @@
+.form {
+    padding: 5vw!important;
+    form {
+        max-width: 800px;
+        margin:0 auto;
+    }
+    h1, h3 {
+        text-align: center;
+        font-family:Lato-Black, Arial, Helvetica, sans-serif;
+    }
+    .btn {
+        background-color: $greenish;
+        color:white;
+    }
+    input, textarea {
+        border-left:none;
+        border-top:none;
+        border-right:none;
+    }
+    label {
+        color:$formText;
+        font-weight: 100;
+        font-size: 1.5vw;
+    }
+}

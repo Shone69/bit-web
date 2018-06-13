@@ -1,0 +1,33 @@
+footer {
+    padding:5vw!important;
+    background-color: $blueish;
+    color:white;
+    text-align: center;
+    div {
+        max-width:800px;
+        margin: 0 auto!important;
+        article {
+            &:nth-of-type(3) {
+                max-width: 300px;
+                margin:0 auto;
+            }
+            div {
+
+                padding: 20px;
+                img {
+                    margin:10px 0;
+                    padding:0!important;
+                    display:block;
+                    height:30px;
+                    // box-sizing: content-box;
+                }
+            }
+        }
+    }
+    small {
+        &:last-of-type {
+            color:$formText;
+            font-size:0.75em;
+        }
+    }
+}

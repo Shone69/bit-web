@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    background-color:$greenish!important;
+    color: white;
+    padding: 15vw 5vw 5vw 5vw;
+    box-sizing: border-box;
+    h3:first-of-type {
+        font-family:'Lato-Black', Arial, Helvetica, sans-serif;
+        margin-top:4vw;
+        font-size: 5vw;
+    }
+    p {
+        font-size: 1.5vw;
+    }
+    img {
+        width: 200px;
+    }
+}
